@@ -1,8 +1,8 @@
 import csv
 
 # 输入输出文件路径（可以根据需要修改）
-input_file = 'teams.csv'
-output_file = 'teams_cleaned.csv'
+input_file = './data/teams.csv'
+output_file = './data/teams_cleaned.csv'
 
 # 打开输入文件并处理
 with open(input_file, mode='r', encoding='utf-8', newline='') as infile, \
