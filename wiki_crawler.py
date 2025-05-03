@@ -315,6 +315,11 @@ def save_results(results, output_file):
     # 移除结果中的元数据，创建最终输出格式
     final_results = []
     for record in results:
+
+        #简单的过滤垃圾信息
+        if(len(record["content"])<5000):
+            continue
+
         clean_record = {
             "content": record["content"],
             "question": record["question"],
@@ -377,8 +382,8 @@ if __name__ == "__main__":
     import argparse
     
     parser = argparse.ArgumentParser(description='wiki_crawler')
-    parser.add_argument('--csv_file', default='teams_cleaned.csv',help='team wiki csv filepath')
-    parser.add_argument('--output', default='teams_wiki_data.json', help='output in json')
+    parser.add_argument('--csv_file', default='./data/teams_cleaned.csv',help='team wiki csv filepath')
+    parser.add_argument('--output', default='./data/teams_wiki_data.json', help='output in json')
     parser.add_argument('--workers', type=int, default=5, help='workers number')
     
     args = parser.parse_args()
