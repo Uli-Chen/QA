@@ -1,0 +1,411 @@
+id,team,wiki,region,country,village,kind,section,application,isRemote,year
+5033,Aachen,https://2024.igem.wiki/aachen,europe,DEU,Oncology,collegiate,overgrad,accepted,false,2024
+5137,Aalto-Helsinki,https://2024.igem.wiki/aalto-helsinki,europe,FIN,Therapeutics,collegiate,overgrad,accepted,false,2024
+5260,ABOA,https://2024.igem.wiki/aboa,europe,FIN,Space,collegiate,overgrad,accepted,false,2024
+5036,AFCM-Egypt,https://2024.igem.wiki/afcm-egypt,africa,EGY,Therapeutics,collegiate,undergrad,accepted,false,2024
+5283,AFMU-China,https://2024.igem.wiki/afmu-china,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5186,AIS-China,https://2024.igem.wiki/ais-china,asia,CHN,Infectious Diseases,commercial,high-school,accepted,false,2024
+5422,Aix-Marseille,https://2024.igem.wiki/aix-marseille,europe,FRA,Agriculture,collegiate,overgrad,accepted,true,2024
+5324,Alma,https://2024.igem.wiki/alma,north-america,USA,Conservation,collegiate,undergrad,accepted,false,2024
+5171,Anatolia-College,https://2024.igem.wiki/anatolia-college,europe,GRC,Bioremediation,high-school,high-school,accepted,false,2024
+5423,ANU,https://2024.igem.wiki/anu,asia,AUS,Conservation,collegiate,undergrad,accepted,false,2024
+5312,AshesiGhana,https://2024.igem.wiki/ashesighana,africa,GHA,Conservation,collegiate,overgrad,accepted,false,2024
+5431,ASU,https://2024.igem.wiki/asu,north-america,USA,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5406,Athens,https://2024.igem.wiki/athens,europe,GRC,Bioremediation,collegiate,overgrad,accepted,false,2024
+5119,Austin-utexas,https://2024.igem.wiki/austin-utexas,north-america,USA,Food & Nutrition,collegiate,undergrad,accepted,false,2024
+5045,BAID-China,https://2024.igem.wiki/baid-china,asia,CHN,Oncology,high-school,high-school,accepted,false,2024
+5251,Bangkok-NMH,https://2024.igem.wiki/bangkok-nmh,asia,THA,Software & AI,collegiate,undergrad,accepted,false,2024
+5316,Barcelona-UB,https://2024.igem.wiki/barcelona-ub,europe,ESP,Therapeutics,collegiate,undergrad,accepted,false,2024
+5236,BASIS-China,https://2024.igem.wiki/basis-china,asia,CHN,Bioremediation,high-school,high-school,accepted,false,2024
+5190,Beijing-HS,https://2024.igem.wiki/beijing-hs,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5217,BGI-MammothEdu-East,https://2024.igem.wiki/bgi-mammothedu-east,asia,CHN,Fashion & Cosmetics,commercial,high-school,accepted,false,2024
+5218,BGI-MammothEdu-South,https://2024.igem.wiki/bgi-mammothedu-south,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5247,Bielefeld-CeBiTec,https://2024.igem.wiki/bielefeld-cebitec,europe,DEU,Therapeutics,collegiate,overgrad,accepted,false,2024
+5212,Bioplus-China,https://2024.igem.wiki/bioplus-china,asia,CHN,Fashion & Cosmetics,commercial,high-school,accepted,false,2024
+5214,Bioplus-Shanghai,https://2024.igem.wiki/bioplus-shanghai,asia,CHN,Biomanufacturing,commercial,high-school,accepted,false,2024
+5358,BIT,https://2024.igem.wiki/bit,asia,CHN,Conservation,collegiate,undergrad,accepted,false,2024
+5166,BIT-China,https://2024.igem.wiki/bit-china,asia,CHN,Bioremediation,collegiate,undergrad,accepted,false,2024
+5225,BJHS-China,https://2024.igem.wiki/bjhs-china,asia,CHN,Therapeutics,high-school,high-school,withdrawn,true,2024
+5328,BJWZ-3-China,https://2024.igem.wiki/bjwz-3-china,asia,CHN,Agriculture,high-school,high-school,accepted,false,2024
+5243,BKEA,https://2024.igem.wiki/bkea,europe,DNK,Therapeutics,high-school,high-school,accepted,false,2024
+5127,BNDS-China,https://2024.igem.wiki/bnds-china,asia,CHN,Therapeutics,high-school,high-school,accepted,false,2024
+5301,BNU-China,https://2024.igem.wiki/bnu-china,asia,CHN,Infectious Diseases,collegiate,overgrad,accepted,false,2024
+5291,BNUZH-China,https://2024.igem.wiki/bnuzh-china,asia,CHN,Bioremediation,collegiate,undergrad,accepted,false,2024
+5329,BOKU-Vienna,https://2024.igem.wiki/boku-vienna,europe,AUT,Bioremediation,collegiate,overgrad,accepted,false,2024
+5257,Bolivia,https://2024.igem.wiki/bolivia,latin-america,BOL,Climate Crisis,collegiate,undergrad,accepted,true,2024
+5254,Boston-BOSLab,https://2024.igem.wiki/boston-boslab,north-america,USA,Biomanufacturing,high-school,high-school,accepted,false,2024
+5359,BostonU,https://2024.igem.wiki/bostonu,north-america,USA,Agriculture,collegiate,undergrad,accepted,false,2024
+5349,BotchanLab-Tokyo,https://2024.igem.wiki/botchanlab-tokyo,asia,JPN,Diagnostics,collegiate,undergrad,accepted,false,2024
+5347,BUAPMX,https://2024.igem.wiki/buapmx,latin-america,MEX,Oncology,collegiate,overgrad,accepted,false,2024
+5327,BUCT,https://2024.igem.wiki/buct,asia,CHN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5086,BUCT-China,https://2024.igem.wiki/buct-china,asia,CHN,Diagnostics,collegiate,undergrad,accepted,false,2024
+5234,BWYA,https://2024.igem.wiki/bwya,asia,CHN,Diagnostics,high-school,high-school,accepted,false,2024
+5525,BYID-China,https://2024.igem.wiki/byid-china,asia,CHN,Agriculture,commercial,high-school,withdrawn,,2024
+5380,BYU-Provo,https://2024.igem.wiki/byu-provo,north-america,USA,Agriculture,collegiate,overgrad,accepted,false,2024
+5530,BZK-SH,https://2024.igem.wiki/bzk-sh,asia,CHN,Diagnostics,commercial,high-school,accepted,true,2024
+5154,Cambridge,https://2024.igem.wiki/cambridge,europe,GBR,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5300,CAU-China,https://2024.igem.wiki/cau-china,asia,CHN,Food & Nutrition,collegiate,undergrad,accepted,false,2024
+5145,CCA-San-Diego,https://2024.igem.wiki/cca-san-diego,north-america,USA,Agriculture,high-school,high-school,accepted,true,2024
+5040,CCU-Taiwan,https://2024.igem.wiki/ccu-taiwan,asia,TWN,Food & Nutrition,collegiate,undergrad,accepted,false,2024
+5176,Chalmers-Gothenburg,https://2024.igem.wiki/chalmers-gothenburg,europe,SWE,Infectious Diseases,collegiate,overgrad,accepted,false,2024
+5385,CHINA-FUZHOU,https://2024.igem.wiki/china-fuzhou,asia,CHN,Fashion & Cosmetics,collegiate,undergrad,accepted,true,2024
+5211,CHINA-HUBU-WUHAN,https://2024.igem.wiki/china-hubu-wuhan,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5111,City-of-London-UK,https://2024.igem.wiki/city-of-london-uk,europe,GBR,Bioremediation,high-school,high-school,accepted,false,2024
+5334,CityU-HongKong,https://2024.igem.wiki/cityu-hongkong,asia,HKG,Therapeutics,collegiate,undergrad,accepted,false,2024
+5123,CJ-CHINA,https://2024.igem.wiki/cj-china,asia,CHN,Fashion & Cosmetics,high-school,high-school,withdrawn,,2024
+5038,CJUH-JLU-China,https://2024.igem.wiki/cjuh-jlu-china,asia,CHN,Diagnostics,collegiate,undergrad,accepted,false,2024
+5396,CNPEM-BRAZIL,https://2024.igem.wiki/cnpem-brazil,latin-america,BRA,Bioremediation,collegiate,overgrad,accepted,false,2024
+5139,Concordia-Montreal,https://2024.igem.wiki/concordia-montreal,north-america,CAN,Bioremediation,collegiate,overgrad,accepted,false,2024
+5165,Concordia-Shanghai,https://2024.igem.wiki/concordia-shanghai,asia,CHN,Biomanufacturing,high-school,high-school,accepted,false,2024
+5059,Cornell,https://2024.igem.wiki/cornell,north-america,USA,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5355,CSMU-NCHU-Taiwan,https://2024.igem.wiki/csmu-nchu-taiwan,asia,TWN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5156,CSU-CHINA,https://2024.igem.wiki/csu-china,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5478,CSW-UD,https://2024.igem.wiki/csw-ud,north-america,USA,Agriculture,high-school,high-school,accepted,false,2024
+5323,CUG-China,https://2024.igem.wiki/cug-china,asia,CHN,Bioremediation,collegiate,undergrad,accepted,false,2024
+5402,CUHK-HongKong-SBS,https://2024.igem.wiki/cuhk-hongkong-sbs,asia,HKG,Therapeutics,collegiate,undergrad,accepted,false,2024
+5535,DBHS-CA,https://2024.igem.wiki/dbhs-ca,north-america,USA,Therapeutics,high-school,high-school,accepted,true,2024
+5369,DelNorte-SD,https://2024.igem.wiki/delnorte-sd,north-america,USA,Fashion & Cosmetics,high-school,high-school,accepted,true,2024
+5076,DKU,https://2024.igem.wiki/dku,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5240,DNHS-SanDiego-CA,https://2024.igem.wiki/dnhs-sandiego-ca,north-america,USA,Foundational Advance,high-school,high-school,accepted,true,2024
+5107,DTU-Denmark,https://2024.igem.wiki/dtu-denmark,europe,DNK,Bioremediation,collegiate,overgrad,accepted,false,2024
+5146,DUESSELDORF,https://2024.igem.wiki/duesseldorf,europe,DEU,Fashion & Cosmetics,collegiate,overgrad,accepted,false,2024
+5198,Duke,https://2024.igem.wiki/duke,north-america,USA,Oncology,collegiate,undergrad,accepted,false,2024
+5475,DUT,https://2024.igem.wiki/dut,asia,CHN,Foundational Advance,collegiate,undergrad,accepted,true,2024
+5339,DUT-China,https://2024.igem.wiki/dut-china,asia,CHN,Therapeutics,collegiate,undergrad,accepted,true,2024
+5272,East-Coast-Biocrew,https://2024.igem.wiki/east-coast-biocrew,north-america,USA,Food & Nutrition,high-school,high-school,accepted,false,2024
+5241,ECIB-PKU,https://2024.igem.wiki/ecib-pku,asia,CHN,Space,community-lab,undergrad,accepted,false,2024
+5432,ECUST,https://2024.igem.wiki/ecust,asia,CHN,Agriculture,collegiate,undergrad,accepted,false,2024
+5173,EHSBNU,https://2024.igem.wiki/ehsbnu,asia,CHN,Conservation,high-school,high-school,accepted,true,2024
+5489,Embark001,https://2024.igem.wiki/embark001,asia,CHN,Agriculture,commercial,high-school,withdrawn,true,2024
+5504,Embark002,https://2024.igem.wiki/embark002,asia,CHN,Bioremediation,commercial,high-school,withdrawn,true,2024
+5505,Embark003,https://2024.igem.wiki/embark003,asia,CHN,Bioremediation,commercial,high-school,withdrawn,true,2024
+5506,Embark004,https://2024.igem.wiki/embark004,asia,CHN,Bioremediation,commercial,high-school,withdrawn,true,2024
+5252,EPFL,https://2024.igem.wiki/epfl,europe,CHE,Bioremediation,collegiate,overgrad,accepted,false,2024
+5356,ETH-Zurich,https://2024.igem.wiki/eth-zurich,europe,CHE,Foundational Advance,collegiate,overgrad,accepted,false,2024
+5061,Evry-Paris-Saclay,https://2024.igem.wiki/evry-paris-saclay,europe,FRA,Foundational Advance,collegiate,overgrad,accepted,false,2024
+5032,Example,https://2024.igem.wiki/example,europe,FRA,Therapeutics,collegiate,overgrad,accepted,true,2024
+5124,Exeter,https://2024.igem.wiki/exeter,europe,GBR,Diagnostics,collegiate,undergrad,accepted,false,2024
+5351,FDfzSH,https://2024.igem.wiki/fdfzsh,asia,CHN,Climate Crisis,high-school,high-school,accepted,false,2024
+5274,FHS-NB-ZJ-China,https://2024.igem.wiki/fhs-nb-zj-china,asia,CHN,Agriculture,high-school,high-school,accepted,true,2024
+5437,Formosa,https://2024.igem.wiki/formosa,asia,TWN,Fashion & Cosmetics,high-school,high-school,accepted,false,2024
+5424,Formosa101,https://2024.igem.wiki/formosa101,asia,TWN,Biomanufacturing,commercial,high-school,accepted,false,2024
+5419,Foshan-GreatBay,https://2024.igem.wiki/foshan-greatbay,asia,CHN,Biomanufacturing,high-school,high-school,accepted,false,2024
+5057,Freiburg,https://2024.igem.wiki/freiburg,europe,DEU,Infectious Diseases,collegiate,overgrad,accepted,false,2024
+5064,FSU,https://2024.igem.wiki/fsu,north-america,USA,Diagnostics,collegiate,undergrad,accepted,false,2024
+5115,Fudan,https://2024.igem.wiki/fudan,asia,CHN,Bioremediation,collegiate,undergrad,accepted,false,2024
+5114,GCM-KY,https://2024.igem.wiki/gcm-ky,north-america,USA,Bioremediation,high-school,high-school,accepted,false,2024
+5458,GEC-Beijing,https://2024.igem.wiki/gec-beijing,asia,CHN,Fashion & Cosmetics,commercial,high-school,accepted,true,2024
+5133,GEC-China,https://2024.igem.wiki/gec-china,asia,CHN,Biomanufacturing,commercial,high-school,accepted,false,2024
+5084,GEC-Guangzhou,https://2024.igem.wiki/gec-guangzhou,asia,CHN,Diagnostics,commercial,high-school,accepted,false,2024
+5066,GEMS-Taiwan,https://2024.igem.wiki/gems-taiwan,asia,TWN,Infectious Diseases,commercial,high-school,accepted,false,2024
+5410,GeorgiaState-SWJTU,https://2024.igem.wiki/georgiastate-swjtu,north-america,USA,Biomanufacturing,collegiate,overgrad,accepted,false,2024
+5315,Grand-Tokyo,https://2024.igem.wiki/grand-tokyo,asia,JPN,Therapeutics,high-school,high-school,accepted,false,2024
+5184,GreatBay-SCIE,https://2024.igem.wiki/greatbay-scie,asia,CHN,Agriculture,high-school,high-school,accepted,false,2024
+5512,GSLZ-A,https://2024.igem.wiki/gslz-a,asia,CHN,Oncology,collegiate,undergrad,accepted,true,2024
+5337,Guangxi-U-China,https://2024.igem.wiki/guangxi-u-china,asia,CHN,Therapeutics,collegiate,undergrad,accepted,true,2024
+5509,Guangzhou-BioX,https://2024.igem.wiki/guangzhou-biox,asia,CHN,Bioremediation,commercial,high-school,withdrawn,,2024
+5103,Guelph,https://2024.igem.wiki/guelph,north-america,CAN,Conservation,collegiate,overgrad,accepted,false,2024
+5295,GU-Frankfurt,https://2024.igem.wiki/gu-frankfurt,europe,DEU,Fashion & Cosmetics,collegiate,overgrad,accepted,false,2024
+5383,HainanU-China,https://2024.igem.wiki/hainanu-china,asia,CHN,Fashion & Cosmetics,collegiate,undergrad,accepted,true,2024
+5077,Hamburg,https://2024.igem.wiki/hamburg,europe,DEU,Therapeutics,collegiate,overgrad,accepted,false,2024
+5208,Hangzhou-BioX,https://2024.igem.wiki/hangzhou-biox,asia,CHN,Food & Nutrition,commercial,high-school,accepted,false,2024
+5508,Hangzhou-MedX,https://2024.igem.wiki/hangzhou-medx,asia,CHN,Food & Nutrition,commercial,high-school,accepted,false,2024
+5205,Hangzhou-SDG,https://2024.igem.wiki/hangzhou-sdg,asia,CHN,Bioremediation,commercial,high-school,accepted,false,2024
+5317,Hannover,https://2024.igem.wiki/hannover,europe,DEU,Bioremediation,collegiate,overgrad,accepted,false,2024
+5472,Harvard,https://2024.igem.wiki/harvard,north-america,USA,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5073,HBMU-Taihe,https://2024.igem.wiki/hbmu-taihe,asia,CHN,Oncology,collegiate,undergrad,accepted,false,2024
+5249,HBUT-China,https://2024.igem.wiki/hbut-china,asia,CHN,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5384,HBUT-Wuhan,https://2024.igem.wiki/hbut-wuhan,asia,CHN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5237,Heidelberg,https://2024.igem.wiki/heidelberg,europe,DEU,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5261,HiZJU-China,https://2024.igem.wiki/hizju-china,asia,CHN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5056,HK-Joint-School,https://2024.igem.wiki/hk-joint-school,asia,HKG,Oncology,high-school,high-school,accepted,false,2024
+5271,HKPOLYU,https://2024.igem.wiki/hkpolyu,asia,HKG,Oncology,collegiate,undergrad,accepted,false,2024
+5162,HKSSC,https://2024.igem.wiki/hkssc,asia,HKG,Therapeutics,high-school,high-school,accepted,false,2024
+5062,HKU-HongKong,https://2024.igem.wiki/hku-hongkong,asia,HKG,Oncology,collegiate,undergrad,accepted,false,2024
+5063,HK-United,https://2024.igem.wiki/hk-united,asia,HKG,Therapeutics,high-school,high-school,accepted,false,2024
+5159,HKUST,https://2024.igem.wiki/hkust,asia,HKG,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5280,HKUST-GZ,https://2024.igem.wiki/hkust-gz,asia,CHN,Conservation,collegiate,undergrad,accepted,false,2024
+5116,HNU-China,https://2024.igem.wiki/hnu-china,asia,CHN,Conservation,collegiate,undergrad,accepted,false,2024
+5041,HongKong-CUHK,https://2024.igem.wiki/hongkong-cuhk,asia,HKG,Infectious Diseases,collegiate,undergrad,accepted,false,2024
+5152,HongKong-JSS,https://2024.igem.wiki/hongkong-jss,asia,HKG,Bioremediation,high-school,high-school,accepted,false,2024
+5201,HongKong-UCCKE,https://2024.igem.wiki/hongkong-uccke,asia,HKG,Agriculture,high-school,high-school,accepted,false,2024
+5275,Hopkins,https://2024.igem.wiki/hopkins,north-america,USA,Fashion & Cosmetics,collegiate,undergrad,accepted,false,2024
+5281,HS-Alpha,https://2024.igem.wiki/hs-alpha,asia,CHN,Conservation,commercial,high-school,accepted,false,2024
+5282,HS-Beta,https://2024.igem.wiki/hs-beta,asia,CHN,Biomanufacturing,commercial,high-school,accepted,false,2024
+5382,HUBU-4-CHN,https://2024.igem.wiki/hubu-4-chn,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5044,HUBU-China,https://2024.igem.wiki/hubu-china,asia,CHN,Agriculture,collegiate,undergrad,accepted,false,2024
+5167,HUBU-WUCHANG-CHINA,https://2024.igem.wiki/hubu-wuchang-china,asia,CHN,Food & Nutrition,collegiate,overgrad,accepted,false,2024
+5142,HunanU,https://2024.igem.wiki/hunanu,asia,CHN,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5175,HUST-China,https://2024.igem.wiki/hust-china,asia,CHN,Agriculture,collegiate,undergrad,accepted,false,2024
+5233,HUST-UEVE-UPSaclay,https://2024.igem.wiki/hust-ueve-upsaclay,asia,CHN,Bioremediation,collegiate,overgrad,accepted,false,2024
+5526,HWFLA-Beijing,https://2024.igem.wiki/hwfla-beijing,asia,CHN,Oncology,high-school,high-school,accepted,false,2024
+5507,HW-ShanghaiUnited,https://2024.igem.wiki/hw-shanghaiunited,asia,CHN,Bioremediation,commercial,high-school,accepted,false,2024
+5335,HZAU-China,https://2024.igem.wiki/hzau-china,asia,CHN,Agriculture,collegiate,undergrad,accepted,true,2024
+5074,ICJFLS,https://2024.igem.wiki/icjfls,asia,CHN,Food & Nutrition,high-school,high-school,accepted,true,2024
+5035,IEA,https://2024.igem.wiki/iea,north-america,USA,Bioremediation,high-school,high-school,accepted,false,2024
+5170,IISc-Bengaluru,https://2024.igem.wiki/iisc-bengaluru,asia,IND,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5346,IISc-Software,https://2024.igem.wiki/iisc-software,asia,IND,Software & AI,collegiate,undergrad,accepted,true,2024
+5425,IISER-Kolkata,https://2024.igem.wiki/iiser-kolkata,asia,IND,Fashion & Cosmetics,collegiate,undergrad,accepted,false,2024
+5181,IISER-TVM,https://2024.igem.wiki/iiser-tvm,asia,IND,Fashion & Cosmetics,collegiate,undergrad,accepted,false,2024
+5365,IIT-Bombay,https://2024.igem.wiki/iit-bombay,asia,IND,Climate Crisis,collegiate,undergrad,accepted,false,2024
+5155,IIT-Madras,https://2024.igem.wiki/iit-madras,asia,IND,Space,collegiate,undergrad,accepted,false,2024
+5493,IIT-ROORKEE,https://2024.igem.wiki/iit-roorkee,asia,IND,Diagnostics,collegiate,undergrad,accepted,false,2024
+5394,IM-PANAMA,https://2024.igem.wiki/im-panama,latin-america,PAN,Agriculture,high-school,high-school,accepted,false,2024
+5416,Imperial-College,https://2024.igem.wiki/imperial-college,europe,GBR,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5502,Institut-Le-Rosey,https://2024.igem.wiki/institut-le-rosey,europe,CHE,Diagnostics,high-school,high-school,accepted,false,2024
+5490,IOANNINA,https://2024.igem.wiki/ioannina,europe,GRC,Infectious Diseases,collegiate,overgrad,accepted,false,2024
+5055,Ionis-Paris,https://2024.igem.wiki/ionis-paris,europe,FRA,Agriculture,collegiate,overgrad,accepted,false,2024
+5371,iZJU-China,https://2024.igem.wiki/izju-china,asia,CHN,Fashion & Cosmetics,collegiate,undergrad,accepted,false,2024
+5157,Jiangnan-China,https://2024.igem.wiki/jiangnan-china,asia,CHN,Bioremediation,collegiate,undergrad,accepted,false,2024
+5480,JIASHU-China,https://2024.igem.wiki/jiashu-china,asia,CHN,Foundational Advance,commercial,high-school,accepted,false,2024
+5481,JIASHU-Shanghai,https://2024.igem.wiki/jiashu-shanghai,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5482,JIASHU-SouthChina,https://2024.igem.wiki/jiashu-southchina,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5446,Jilin-China,https://2024.igem.wiki/jilin-china,asia,CHN,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5498,jky-wuhan-china,https://2024.igem.wiki/jky-wuhan-china,asia,CHN,Diagnostics,high-school,high-school,accepted,true,2024
+5209,JLU-China,https://2024.igem.wiki/jlu-china,asia,CHN,Diagnostics,collegiate,overgrad,disqualified,false,2024
+5354,JLU-CP,https://2024.igem.wiki/jlu-cp,asia,CHN,Fashion & Cosmetics,collegiate,undergrad,accepted,false,2024
+5304,JLU-NBBMS,https://2024.igem.wiki/jlu-nbbms,asia,CHN,Oncology,collegiate,undergrad,accepted,false,2024
+5087,JU-Krakow,https://2024.igem.wiki/ju-krakow,europe,POL,Conservation,collegiate,undergrad,accepted,false,2024
+5094,KCIS-Xiugang-Taipei,https://2024.igem.wiki/kcis-xiugang-taipei,asia,TWN,Bioremediation,high-school,high-school,accepted,false,2024
+5375,Keystone,https://2024.igem.wiki/keystone,asia,CHN,Therapeutics,high-school,high-school,accepted,false,2024
+5519,KFUPM-Saudi-Arabia,https://2024.igem.wiki/kfupm-saudi-arabia,asia,SAU,Infectious Diseases,collegiate,overgrad,accepted,false,2024
+5128,KhanLabSchool,https://2024.igem.wiki/khanlabschool,north-america,USA,Climate Crisis,high-school,high-school,accepted,false,2024
+5404,Korea-HS,https://2024.igem.wiki/korea-hs,asia,KOR,Climate Crisis,commercial,high-school,accepted,false,2024
+5060,KULeuven,https://2024.igem.wiki/kuleuven,europe,BEL,Bioremediation,collegiate,overgrad,accepted,false,2024
+5411,Kyoto,https://2024.igem.wiki/kyoto,asia,JPN,Agriculture,collegiate,undergrad,accepted,false,2024
+5096,Lambert-GA,https://2024.igem.wiki/lambert-ga,north-america,USA,Therapeutics,high-school,high-school,accepted,false,2024
+5415,Latvia-Riga,https://2024.igem.wiki/latvia-riga,europe,LVA,Foundational Advance,collegiate,overgrad,accepted,false,2024
+5461,LCG-China,https://2024.igem.wiki/lcg-china,asia,CHN,Biomanufacturing,commercial,high-school,accepted,false,2024
+5460,LCG-Global,https://2024.igem.wiki/lcg-global,asia,CHN,Diagnostics,commercial,high-school,accepted,false,2024
+5112,Leiden,https://2024.igem.wiki/leiden,europe,NLD,Foundational Advance,collegiate,overgrad,accepted,false,2024
+5092,LethbridgeHS,https://2024.igem.wiki/lethbridgehs,north-america,CAN,Agriculture,high-school,high-school,accepted,false,2024
+5387,Linkoping,https://2024.igem.wiki/linkoping,europe,SWE,Therapeutics,collegiate,overgrad,accepted,false,2024
+5185,LINKS-China,https://2024.igem.wiki/links-china,asia,CHN,Biomanufacturing,commercial,high-school,accepted,false,2024
+5392,LIUAN-Nanjing,https://2024.igem.wiki/liuan-nanjing,asia,CHN,Foundational Advance,commercial,high-school,accepted,true,2024
+5213,Lund,https://2024.igem.wiki/lund,europe,SWE,Climate Crisis,collegiate,overgrad,accepted,false,2024
+5391,LZU-China,https://2024.igem.wiki/lzu-china,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5161,LZU-MEDICINE-CHINA,https://2024.igem.wiki/lzu-medicine-china,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5443,MacquarieUni,https://2024.igem.wiki/macquarieuni,asia,AUS,Food & Nutrition,collegiate,overgrad,accepted,true,2024
+5435,Madrid-UCM,https://2024.igem.wiki/madrid-ucm,europe,ESP,Bioremediation,collegiate,undergrad,accepted,false,2024
+5177,Manchester,https://2024.igem.wiki/manchester,europe,GBR,Therapeutics,collegiate,undergrad,accepted,false,2024
+5088,Marburg,https://2024.igem.wiki/marburg,europe,DEU,Agriculture,collegiate,overgrad,accepted,false,2024
+5099,McGill,https://2024.igem.wiki/mcgill,north-america,CAN,Diagnostics,collegiate,undergrad,accepted,false,2024
+5393,McMaster-Canada,https://2024.igem.wiki/mcmaster-canada,north-america,CAN,Oncology,collegiate,overgrad,accepted,false,2024
+5515,McMasterU,https://2024.igem.wiki/mcmasteru,north-america,CAN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5479,Mexico,https://2024.igem.wiki/mexico,latin-america,MEX,Agriculture,collegiate,overgrad,accepted,false,2024
+5196,Michigan,https://2024.igem.wiki/michigan,north-america,USA,Bioremediation,collegiate,undergrad,accepted,false,2024
+5325,MichiganState,https://2024.igem.wiki/michiganstate,north-america,USA,Bioremediation,collegiate,undergrad,accepted,false,2024
+5049,Mingdao,https://2024.igem.wiki/mingdao,asia,TWN,Food & Nutrition,high-school,high-school,accepted,false,2024
+5202,Missouri-Miners,https://2024.igem.wiki/missouri-miners,north-america,USA,Infectious Diseases,collegiate,overgrad,accepted,true,2024
+5345,MIT,https://2024.igem.wiki/mit,north-america,USA,Oncology,collegiate,undergrad,accepted,false,2024
+5141,MIT-MAHE,https://2024.igem.wiki/mit-mahe,asia,IND,Agriculture,collegiate,undergrad,accepted,false,2024
+5306,MSP-Maastricht,https://2024.igem.wiki/msp-maastricht,europe,NLD,Bioremediation,collegiate,undergrad,accepted,false,2024
+5102,Munich,https://2024.igem.wiki/munich,europe,DEU,Foundational Advance,collegiate,overgrad,accepted,false,2024
+5399,NAIS,https://2024.igem.wiki/nais,asia,CHN,Food & Nutrition,commercial,high-school,accepted,false,2024
+5206,Nanjing-BioX,https://2024.igem.wiki/nanjing-biox,asia,CHN,Food & Nutrition,commercial,high-school,accepted,false,2024
+5034,Nanjing-China,https://2024.igem.wiki/nanjing-china,asia,CHN,Space,collegiate,undergrad,accepted,false,2024
+5418,NANJING-NFLSUNITED,https://2024.igem.wiki/nanjing-nflsunited,asia,CHN,Biomanufacturing,high-school,high-school,accepted,false,2024
+5163,NASSZ,https://2024.igem.wiki/nassz,asia,CHN,Therapeutics,high-school,high-school,accepted,false,2024
+5398,NAU-CHINA,https://2024.igem.wiki/nau-china,asia,CHN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5313,NEFU-China,https://2024.igem.wiki/nefu-china,asia,CHN,Food & Nutrition,collegiate,overgrad,accepted,false,2024
+5470,NENU-China,https://2024.igem.wiki/nenu-china,asia,CHN,Food & Nutrition,collegiate,undergrad,accepted,false,2024
+5238,NJMU-CHINA,https://2024.igem.wiki/njmu-china,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5322,NJTech-China,https://2024.igem.wiki/njtech-china,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5366,NJTECH-CHINA-A,https://2024.igem.wiki/njtech-china-a,asia,CHN,Biomanufacturing,collegiate,undergrad,accepted,true,2024
+5367,NJU-China,https://2024.igem.wiki/nju-china,asia,CHN,Software & AI,collegiate,undergrad,accepted,false,2024
+5332,NKU-China,https://2024.igem.wiki/nku-china,asia,CHN,Therapeutics,collegiate,undergrad,disqualified,false,2024
+5210,NMU-China,https://2024.igem.wiki/nmu-china,asia,CHN,Space,collegiate,undergrad,accepted,false,2024
+5191,NNHS,https://2024.igem.wiki/nnhs,asia,CHN,Foundational Advance,high-school,high-school,accepted,true,2024
+5303,NNU-CHINA,https://2024.igem.wiki/nnu-china,asia,CHN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5426,Northeastern-Boston,https://2024.igem.wiki/northeastern-boston,north-america,USA,Food & Nutrition,collegiate,undergrad,accepted,false,2024
+5204,NPU-CHINA,https://2024.igem.wiki/npu-china,asia,CHN,Climate Crisis,collegiate,undergrad,accepted,false,2024
+5361,NTHU-Taiwan,https://2024.igem.wiki/nthu-taiwan,asia,TWN,Infectious Diseases,collegiate,undergrad,accepted,false,2024
+5401,NTU-Singapore,https://2024.igem.wiki/ntu-singapore,asia,SGP,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5294,NTU-Taiwan,https://2024.igem.wiki/ntu-taiwan,asia,TWN,Biomanufacturing,collegiate,overgrad,accepted,false,2024
+5267,NUDT-CHINA,https://2024.igem.wiki/nudt-china,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5129,NU-Kazakhstan,https://2024.igem.wiki/nu-kazakhstan,asia,KAZ,Oncology,collegiate,undergrad,accepted,false,2024
+5499,NWU-CHINA-A,https://2024.igem.wiki/nwu-china-a,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5203,NYC-Empire-State,https://2024.igem.wiki/nyc-empire-state,north-america,USA,Infectious Diseases,commercial,high-school,accepted,false,2024
+5151,NYCU-Formosa,https://2024.igem.wiki/nycu-formosa,asia,TWN,Diagnostics,collegiate,undergrad,accepted,false,2024
+5125,NYU-Abu-Dhabi,https://2024.igem.wiki/nyu-abu-dhabi,asia,ARE,Conservation,collegiate,undergrad,accepted,false,2024
+5098,NYU-New-York,https://2024.igem.wiki/nyu-new-york,north-america,USA,Diagnostics,collegiate,undergrad,accepted,false,2024
+5147,OhioState,https://2024.igem.wiki/ohiostate,north-america,USA,Bioremediation,collegiate,undergrad,accepted,false,2024
+5444,OKstate,https://2024.igem.wiki/okstate,north-america,USA,Infectious Diseases,collegiate,undergrad,accepted,false,2024
+5097,Oneonta,https://2024.igem.wiki/oneonta,north-america,USA,Bioremediation,collegiate,undergrad,accepted,false,2024
+5216,OTIA-Hangzhou,https://2024.igem.wiki/otia-hangzhou,asia,CHN,Biomanufacturing,high-school,high-school,accepted,false,2024
+5331,OUC-China,https://2024.igem.wiki/ouc-china,asia,CHN,Biomanufacturing,collegiate,undergrad,disqualified,false,2024
+5314,OUC-Haide,https://2024.igem.wiki/ouc-haide,asia,CHN,Agriculture,collegiate,undergrad,accepted,false,2024
+5197,Outaouais,https://2024.igem.wiki/outaouais,north-america,CAN,Climate Crisis,high-school,high-school,accepted,false,2024
+5465,Oxford,https://2024.igem.wiki/oxford,europe,GBR,Infectious Diseases,collegiate,undergrad,accepted,false,2024
+5046,Patras,https://2024.igem.wiki/patras,europe,GRC,Oncology,collegiate,undergrad,accepted,false,2024
+5471,Patras-Med,https://2024.igem.wiki/patras-med,europe,GRC,Therapeutics,collegiate,undergrad,accepted,false,2024
+5321,Peking,https://2024.igem.wiki/peking,asia,CHN,Diagnostics,collegiate,undergrad,accepted,false,2024
+5231,PekingHSC,https://2024.igem.wiki/pekinghsc,asia,CHN,Oncology,collegiate,undergrad,accepted,false,2024
+5144,PennState,https://2024.igem.wiki/pennstate,north-america,USA,Diagnostics,collegiate,undergrad,accepted,false,2024
+5528,PINGHE-MCA,https://2024.igem.wiki/pinghe-mca,asia,CHN,Biomanufacturing,commercial,high-school,accepted,false,2024
+5405,Pisa-IT,https://2024.igem.wiki/pisa-it,europe,ITA,Agriculture,collegiate,undergrad,accepted,false,2024
+5441,PLKLFC,https://2024.igem.wiki/plklfc,asia,HKG,Oncology,high-school,high-school,accepted,false,2024
+5051,PLKNPL-HK,https://2024.igem.wiki/plknpl-hk,asia,HKG,Biomanufacturing,high-school,high-school,accepted,true,2024
+5180,Princeton,https://2024.igem.wiki/princeton,north-america,USA,Therapeutics,collegiate,undergrad,accepted,false,2024
+5193,PuiChing-Macau,https://2024.igem.wiki/puiching-macau,asia,MAC,Biomanufacturing,high-school,high-school,accepted,false,2024
+5386,QS-FMI,https://2024.igem.wiki/qs-fmi,asia,CHN,Conservation,commercial,high-school,accepted,true,2024
+5079,Queens-Canada,https://2024.igem.wiki/queens-canada,north-america,CAN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5342,Radboud-University,https://2024.igem.wiki/radboud-university,europe,NLD,Therapeutics,collegiate,undergrad,accepted,false,2024
+5488,RainsACA-China,https://2024.igem.wiki/rainsaca-china,asia,CHN,Agriculture,commercial,high-school,accepted,false,2024
+5135,RBHS-San-Diego,https://2024.igem.wiki/rbhs-san-diego,north-america,USA,Space,high-school,high-school,accepted,true,2024
+5468,RDFZ-CHINA,https://2024.igem.wiki/rdfz-china,asia,CHN,Conservation,high-school,high-school,accepted,false,2024
+5227,REC-CHENNAI,https://2024.igem.wiki/rec-chennai,asia,IND,Conservation,collegiate,undergrad,accepted,false,2024
+5058,Rio-UFRJ-Brazil,https://2024.igem.wiki/rio-ufrj-brazil,latin-america,BRA,Biomanufacturing,collegiate,overgrad,accepted,false,2024
+5052,Rochester,https://2024.igem.wiki/rochester,north-america,USA,Climate Crisis,collegiate,undergrad,accepted,false,2024
+5223,SCU-China,https://2024.igem.wiki/scu-china,asia,CHN,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5226,SCUT-China-A,https://2024.igem.wiki/scut-china-a,asia,CHN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5368,SCUT-China-B,https://2024.igem.wiki/scut-china-b,asia,CHN,Oncology,collegiate,undergrad,accepted,true,2024
+5409,SCUT-China-S,https://2024.igem.wiki/scut-china-s,asia,CHN,Climate Crisis,collegiate,undergrad,accepted,false,2024
+5343,SDU-CHINA,https://2024.igem.wiki/sdu-china,asia,CHN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5253,SDU-Denmark,https://2024.igem.wiki/sdu-denmark,europe,DNK,Therapeutics,collegiate,overgrad,accepted,false,2024
+5414,SEHS,https://2024.igem.wiki/sehs,asia,CHN,Oncology,high-school,high-school,accepted,false,2024
+5093,SFLS-Hangzhou,https://2024.igem.wiki/sfls-hangzhou,asia,CHN,Food & Nutrition,high-school,high-school,accepted,false,2024
+5390,SG-Raffles,https://2024.igem.wiki/sg-raffles,asia,SGP,Therapeutics,high-school,high-school,accepted,false,2024
+5207,Shanghai-BioX,https://2024.igem.wiki/shanghai-biox,asia,CHN,Biomanufacturing,commercial,high-school,accepted,false,2024
+5068,Shanghai-city,https://2024.igem.wiki/shanghai-city,asia,CHN,Bioremediation,commercial,high-school,accepted,false,2024
+5069,Shanghai-HS,https://2024.igem.wiki/shanghai-hs,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5174,Shanghaitech-China,https://2024.igem.wiki/shanghaitech-china,asia,CHN,Fashion & Cosmetics,collegiate,undergrad,accepted,false,2024
+5172,Sheffield,https://2024.igem.wiki/sheffield,europe,GBR,Agriculture,collegiate,undergrad,accepted,false,2024
+5235,SHSBNU-China,https://2024.igem.wiki/shsbnu-china,asia,CHN,Food & Nutrition,high-school,high-school,accepted,false,2024
+5200,SHSD,https://2024.igem.wiki/shsd,asia,CHN,Bioremediation,high-school,high-school,accepted,true,2024
+5522,SHSID-China,https://2024.igem.wiki/shsid-china,asia,CHN,Therapeutics,high-school,high-school,accepted,true,2024
+5182,SJTU-BioX-Shanghai,https://2024.igem.wiki/sjtu-biox-shanghai,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5085,SJTU-Software,https://2024.igem.wiki/sjtu-software,asia,CHN,Software & AI,collegiate,undergrad,accepted,false,2024
+5169,SMS-Shenzhen,https://2024.igem.wiki/sms-shenzhen,asia,CHN,Agriculture,high-school,high-school,accepted,false,2024
+5491,SMU,https://2024.igem.wiki/smu,asia,CHN,Therapeutics,collegiate,undergrad,accepted,true,2024
+5378,SMU-GDMU-CHINA,https://2024.igem.wiki/smu-gdmu-china,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5348,Songshan-Lake,https://2024.igem.wiki/songshan-lake,asia,CHN,Conservation,high-school,high-school,accepted,false,2024
+5222,Sorbonne-U-Paris,https://2024.igem.wiki/sorbonne-u-paris,europe,FRA,Bioremediation,collegiate,overgrad,accepted,false,2024
+5457,Squirrel-Beijing,https://2024.igem.wiki/squirrel-beijing,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5081,Squirrel-Beijing-I,https://2024.igem.wiki/squirrel-beijing-i,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5456,Squirrel-Beijing-II,https://2024.igem.wiki/squirrel-beijing-ii,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5083,Squirrel-CHN,https://2024.igem.wiki/squirrel-chn,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5132,Squirrel-CHN-II,https://2024.igem.wiki/squirrel-chn-ii,asia,CHN,Diagnostics,commercial,high-school,accepted,false,2024
+5080,Squirrel-Guangzhou,https://2024.igem.wiki/squirrel-guangzhou,asia,CHN,Food & Nutrition,commercial,high-school,accepted,false,2024
+5131,Squirrel-Shanghai,https://2024.igem.wiki/squirrel-shanghai,asia,CHN,Infectious Diseases,commercial,high-school,accepted,false,2024
+5459,Squirrel-Shenzhen,https://2024.igem.wiki/squirrel-shenzhen,asia,CHN,Bioremediation,commercial,high-school,accepted,false,2024
+5496,SRE-China,https://2024.igem.wiki/sre-china,asia,CHN,Software & AI,commercial,high-school,accepted,false,2024
+5195,Stanford,https://2024.igem.wiki/stanford,north-america,USA,Therapeutics,collegiate,undergrad,accepted,false,2024
+5122,Stockholm,https://2024.igem.wiki/stockholm,europe,SWE,Fashion & Cosmetics,collegiate,overgrad,accepted,false,2024
+5090,Stony-Brook,https://2024.igem.wiki/stony-brook,north-america,USA,Diagnostics,collegiate,undergrad,accepted,false,2024
+5071,SubCat-China,https://2024.igem.wiki/subcat-china,asia,CHN,Fashion & Cosmetics,commercial,high-school,accepted,false,2024
+5532,SubCat-GreatBay,https://2024.igem.wiki/subcat-greatbay,asia,CHN,Diagnostics,commercial,high-school,accepted,true,2024
+5533,SubCat-HS,https://2024.igem.wiki/subcat-hs,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5072,SubCat-Peking,https://2024.igem.wiki/subcat-peking,asia,CHN,Biomanufacturing,commercial,high-school,accepted,false,2024
+5189,SubCat-Shanghai,https://2024.igem.wiki/subcat-shanghai,asia,CHN,Food & Nutrition,commercial,high-school,accepted,false,2024
+5531,SubCat-Union,https://2024.igem.wiki/subcat-union,asia,CHN,Infectious Diseases,commercial,high-school,accepted,false,2024
+5239,Sustech-Med,https://2024.igem.wiki/sustech-med,asia,CHN,Infectious Diseases,collegiate,undergrad,accepted,false,2024
+5397,SUSTechOCEAN,https://2024.igem.wiki/sustechocean,asia,CHN,Climate Crisis,collegiate,undergrad,accepted,false,2024
+5412,SVCE-CHENNAI,https://2024.igem.wiki/svce-chennai,asia,IND,Diagnostics,collegiate,undergrad,accepted,false,2024
+5183,SWUer-China,https://2024.igem.wiki/swuer-china,asia,CHN,Therapeutics,collegiate,undergrad,disqualified,false,2024
+5121,Sydney-Australia,https://2024.igem.wiki/sydney-australia,asia,AUS,Therapeutics,collegiate,undergrad,accepted,false,2024
+5270,SYPHU-China,https://2024.igem.wiki/syphu-china,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5248,SZPU-China,https://2024.igem.wiki/szpu-china,asia,CHN,Infectious Diseases,collegiate,undergrad,accepted,false,2024
+5453,SZSAIS-Shenzhen,https://2024.igem.wiki/szsais-shenzhen,asia,CHN,Food & Nutrition,high-school,high-school,accepted,true,2024
+5308,SZ-SHD,https://2024.igem.wiki/sz-shd,asia,CHN,Space,commercial,high-school,accepted,false,2024
+5160,SZU-China,https://2024.igem.wiki/szu-china,asia,CHN,Food & Nutrition,collegiate,undergrad,accepted,false,2024
+5042,Taipei-KCISLK-V2,https://2024.igem.wiki/taipei-kcislk-v2,asia,TWN,Diagnostics,high-school,high-school,accepted,false,2024
+5065,TAU-Israel,https://2024.igem.wiki/tau-israel,asia,ISR,Oncology,collegiate,overgrad,accepted,false,2024
+5150,TecCEM,https://2024.igem.wiki/teccem,latin-america,MEX,Food & Nutrition,collegiate,undergrad,accepted,false,2024
+5288,Tec-Chihuahua,https://2024.igem.wiki/tec-chihuahua,latin-america,MEX,Food & Nutrition,collegiate,undergrad,accepted,false,2024
+5450,Tec-Monterrey,https://2024.igem.wiki/tec-monterrey,latin-america,MEX,Bioremediation,collegiate,undergrad,disqualified,false,2024
+5439,TecMonterreyGDL,https://2024.igem.wiki/tecmonterreygdl,latin-america,MEX,Bioremediation,collegiate,undergrad,accepted,false,2024
+5492,TERMOSZ-Selye-HUN,https://2024.igem.wiki/termosz-selye-hun,europe,HUN,Therapeutics,high-school,high-school,accepted,false,2024
+5374,TestDaily-I-Beijing,https://2024.igem.wiki/testdaily-i-beijing,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5120,Thailand-RIS,https://2024.igem.wiki/thailand-ris,asia,THA,Biomanufacturing,high-school,high-school,accepted,false,2024
+5310,thessaloniki,https://2024.igem.wiki/thessaloniki,europe,GRC,Therapeutics,collegiate,undergrad,accepted,false,2024
+5299,Thessaly,https://2024.igem.wiki/thessaly,europe,GRC,Agriculture,collegiate,overgrad,accepted,false,2024
+5259,THISDL-United,https://2024.igem.wiki/thisdl-united,asia,CHN,Foundational Advance,high-school,high-school,accepted,false,2024
+5370,Tianjin,https://2024.igem.wiki/tianjin,asia,CHN,Space,collegiate,undergrad,accepted,false,2024
+5421,TJI-Seoul,https://2024.igem.wiki/tji-seoul,asia,KOR,Oncology,commercial,high-school,accepted,false,2024
+5292,TJUSLS-China,https://2024.igem.wiki/tjusls-china,asia,CHN,Bioremediation,collegiate,undergrad,accepted,false,2024
+5376,TJUSX,https://2024.igem.wiki/tjusx,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5269,TokyoTech,https://2024.igem.wiki/tokyotech,asia,JPN,Agriculture,collegiate,undergrad,accepted,false,2024
+5298,Tongji-China,https://2024.igem.wiki/tongji-china,asia,CHN,Fashion & Cosmetics,collegiate,undergrad,accepted,false,2024
+5503,Tongji-Software,https://2024.igem.wiki/tongji-software,asia,CHN,Software & AI,collegiate,undergrad,accepted,false,2024
+5108,Toulouse-INSA-UPS,https://2024.igem.wiki/toulouse-insa-ups,europe,FRA,Space,collegiate,overgrad,accepted,false,2024
+5187,Tsinghua,https://2024.igem.wiki/tsinghua,asia,CHN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5242,Tsinghua-M,https://2024.igem.wiki/tsinghua-m,asia,CHN,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5043,TUDarmstadt,https://2024.igem.wiki/tudarmstadt,europe,DEU,Bioremediation,collegiate,overgrad,accepted,false,2024
+5054,TU-Delft,https://2024.igem.wiki/tu-delft,europe,NLD,Agriculture,collegiate,overgrad,accepted,false,2024
+5117,TU-Dresden,https://2024.igem.wiki/tu-dresden,europe,DEU,Fashion & Cosmetics,collegiate,overgrad,accepted,false,2024
+5486,Tuebingen,https://2024.igem.wiki/tuebingen,europe,DEU,Foundational Advance,collegiate,overgrad,accepted,false,2024
+5403,TU-Eindhoven,https://2024.igem.wiki/tu-eindhoven,europe,NLD,Oncology,collegiate,undergrad,accepted,false,2024
+5286,TUM-Straubing,https://2024.igem.wiki/tum-straubing,europe,DEU,Biomanufacturing,collegiate,overgrad,accepted,false,2024
+5140,TUPLS-Japan,https://2024.igem.wiki/tupls-japan,asia,JPN,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5427,UAlberta,https://2024.igem.wiki/ualberta,north-america,CAN,Fashion & Cosmetics,collegiate,undergrad,accepted,false,2024
+5413,UBC-Okanagan,https://2024.igem.wiki/ubc-okanagan,north-america,CAN,Fashion & Cosmetics,collegiate,undergrad,withdrawn,false,2024
+5228,UBC-Vancouver,https://2024.igem.wiki/ubc-vancouver,north-america,CAN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5194,UCalgary,https://2024.igem.wiki/ucalgary,north-america,CAN,Therapeutics,collegiate,undergrad,accepted,false,2024
+5276,UCAS-China,https://2024.igem.wiki/ucas-china,asia,CHN,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5138,UChicago,https://2024.igem.wiki/uchicago,north-america,USA,Infectious Diseases,collegiate,overgrad,accepted,false,2024
+5357,ucl,https://2024.igem.wiki/ucl,europe,GBR,Diagnostics,collegiate,undergrad,accepted,false,2024
+5330,UCNZ,https://2024.igem.wiki/ucnz,asia,NZL,Infectious Diseases,collegiate,undergrad,accepted,false,2024
+5477,UCopenhagen,https://2024.igem.wiki/ucopenhagen,europe,DNK,Food & Nutrition,collegiate,overgrad,accepted,false,2024
+5149,UCSC,https://2024.igem.wiki/ucsc,north-america,USA,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5487,UESTC-China,https://2024.igem.wiki/uestc-china,asia,CHN,Bioremediation,collegiate,overgrad,accepted,true,2024
+5469,UFlorida,https://2024.igem.wiki/uflorida,north-america,USA,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5333,UiOslo-Norway,https://2024.igem.wiki/uioslo-norway,europe,NOR,Diagnostics,collegiate,overgrad,accepted,false,2024
+5148,ULaval,https://2024.igem.wiki/ulaval,north-america,CAN,Therapeutics,collegiate,overgrad,accepted,true,2024
+5258,ULC,https://2024.igem.wiki/ulc,asia,CHN,Diagnostics,high-school,high-school,accepted,false,2024
+5091,ULethbridge,https://2024.igem.wiki/ulethbridge,north-america,CAN,Agriculture,collegiate,undergrad,accepted,false,2024
+5520,Ulink-SZ,https://2024.igem.wiki/ulink-sz,asia,CHN,Bioremediation,commercial,high-school,accepted,false,2024
+5466,UMA-MALAGA,https://2024.igem.wiki/uma-malaga,europe,ESP,Food & Nutrition,collegiate,undergrad,accepted,false,2024
+5089,UManitoba,https://2024.igem.wiki/umanitoba,north-america,CAN,Bioremediation,collegiate,overgrad,accepted,false,2024
+5104,UMaryland,https://2024.igem.wiki/umaryland,north-america,USA,Oncology,collegiate,undergrad,accepted,false,2024
+5455,UMass-Amherst,https://2024.igem.wiki/umass-amherst,north-america,USA,Food & Nutrition,collegiate,collegiate,withdrawn,true,2024
+5353,UM-Macau,https://2024.igem.wiki/um-macau,asia,MAC,Oncology,collegiate,undergrad,accepted,false,2024
+5192,UNC-ChapelHill,https://2024.igem.wiki/unc-chapelhill,north-america,USA,Therapeutics,collegiate,undergrad,accepted,false,2024
+5047,UNILausanne,https://2024.igem.wiki/unilausanne,europe,CHE,Conservation,collegiate,overgrad,accepted,false,2024
+5164,UniMuenster,https://2024.igem.wiki/unimuenster,europe,DEU,Biomanufacturing,collegiate,overgrad,accepted,false,2024
+5109,Uni-Padua-IT,https://2024.igem.wiki/uni-padua-it,europe,ITA,Bioremediation,collegiate,undergrad,accepted,false,2024
+5143,UnivLyon1-INSALyon,https://2024.igem.wiki/univlyon1-insalyon,europe,FRA,Food & Nutrition,collegiate,overgrad,accepted,false,2024
+5273,UNT,https://2024.igem.wiki/unt,north-america,USA,Climate Crisis,collegiate,collegiate,withdrawn,true,2024
+5105,UOregon,https://2024.igem.wiki/uoregon,north-america,USA,Infectious Diseases,collegiate,undergrad,accepted,false,2024
+5293,uOttawa,https://2024.igem.wiki/uottawa,north-america,CAN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5311,UPF-Barcelona,https://2024.igem.wiki/upf-barcelona,europe,ESP,Infectious Diseases,collegiate,undergrad,accepted,false,2024
+5527,UppsalaUniversity,https://2024.igem.wiki/uppsalauniversity,europe,SWE,Fashion & Cosmetics,collegiate,overgrad,accepted,false,2024
+5199,USAFA,https://2024.igem.wiki/usafa,north-america,USA,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5428,USP-Brazil,https://2024.igem.wiki/usp-brazil,latin-america,BRA,Biomanufacturing,collegiate,overgrad,accepted,true,2024
+5452,USP-EEL-Brazil,https://2024.igem.wiki/usp-eel-brazil,latin-america,BRA,Biomanufacturing,collegiate,overgrad,accepted,false,2024
+5302,USTC,https://2024.igem.wiki/ustc,asia,CHN,Oncology,collegiate,undergrad,accepted,false,2024
+5305,USTC-Software,https://2024.igem.wiki/ustc-software,asia,CHN,Software & AI,collegiate,overgrad,accepted,false,2024
+5495,UTArlingtonTexasUSA,https://2024.igem.wiki/utarlingtontexasusa,north-america,USA,Food & Nutrition,collegiate,collegiate,withdrawn,true,2024
+5232,UTokyo,https://2024.igem.wiki/utokyo,asia,JPN,Diagnostics,collegiate,undergrad,accepted,false,2024
+5230,UToronto,https://2024.igem.wiki/utoronto,north-america,CAN,Foundational Advance,collegiate,overgrad,accepted,false,2024
+5078,UVU-Utah-2,https://2024.igem.wiki/uvu-utah-2,north-america,USA,Conservation,collegiate,overgrad,accepted,false,2024
+5250,UZurich,https://2024.igem.wiki/uzurich,europe,CHE,Agriculture,collegiate,overgrad,accepted,false,2024
+5246,Vilnius-Lithuania,https://2024.igem.wiki/vilnius-lithuania,europe,LTU,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5178,Virginia,https://2024.igem.wiki/virginia,north-america,USA,Therapeutics,collegiate,undergrad,accepted,false,2024
+5467,VIT-V,https://2024.igem.wiki/vit-v,asia,IND,Fashion & Cosmetics,collegiate,undergrad,accepted,false,2024
+5106,WageningenUR,https://2024.igem.wiki/wageningenur,europe,NLD,Diagnostics,collegiate,overgrad,accepted,false,2024
+5277,Warwick,https://2024.igem.wiki/warwick,europe,GBR,Bioremediation,collegiate,undergrad,accepted,false,2024
+5436,Waseda-Tokyo,https://2024.igem.wiki/waseda-tokyo,asia,JPN,Bioremediation,collegiate,undergrad,accepted,false,2024
+5126,Washington,https://2024.igem.wiki/washington,north-america,USA,Therapeutics,collegiate,undergrad,accepted,true,2024
+5118,Waterloo,https://2024.igem.wiki/waterloo,north-america,CAN,Climate Crisis,collegiate,undergrad,accepted,false,2024
+5494,WegoTaipei,https://2024.igem.wiki/wegotaipei,asia,TWN,Therapeutics,high-school,high-school,accepted,true,2024
+5381,Wentworth,https://2024.igem.wiki/wentworth,north-america,USA,Therapeutics,collegiate,undergrad,accepted,true,2024
+5363,Westlake,https://2024.igem.wiki/westlake,asia,CHN,Oncology,collegiate,undergrad,accepted,false,2024
+5338,Westview-SanDiego,https://2024.igem.wiki/westview-sandiego,north-america,USA,Bioremediation,high-school,high-school,accepted,true,2024
+5070,WFL-HangzhouBay,https://2024.igem.wiki/wfl-hangzhoubay,asia,CHN,Biomanufacturing,commercial,high-school,accepted,false,2024
+5448,WHHS-China,https://2024.igem.wiki/whhs-china,asia,CHN,Bioremediation,high-school,high-school,accepted,true,2024
+5449,WHHS-Pro-China,https://2024.igem.wiki/whhs-pro-china,asia,CHN,Bioremediation,high-school,high-school,accepted,true,2024
+5048,WHU-China,https://2024.igem.wiki/whu-china,asia,CHN,Food & Nutrition,collegiate,undergrad,accepted,false,2024
+5179,William-and-Mary,https://2024.igem.wiki/william-and-mary,north-america,USA,Foundational Advance,collegiate,undergrad,accepted,false,2024
+5501,WLSA-ShanghaiAcademy,https://2024.igem.wiki/wlsa-shanghaiacademy,asia,CHN,Biomanufacturing,high-school,high-school,accepted,false,2024
+5474,WUXI-DSAS,https://2024.igem.wiki/wuxi-dsas,asia,CHN,Agriculture,high-school,high-school,accepted,false,2024
+5255,XJTLU-CHINA,https://2024.igem.wiki/xjtlu-china,asia,CHN,Biomanufacturing,collegiate,undergrad,accepted,false,2024
+5256,XJTLU-Software,https://2024.igem.wiki/xjtlu-software,asia,CHN,Software & AI,collegiate,undergrad,accepted,false,2024
+5268,XJU-China,https://2024.igem.wiki/xju-china,asia,CHN,Bioremediation,collegiate,undergrad,accepted,true,2024
+5136,XMU-China,https://2024.igem.wiki/xmu-china,asia,CHN,Climate Crisis,collegiate,undergrad,accepted,false,2024
+5082,YiYe-China,https://2024.igem.wiki/yiye-china,asia,CHN,Oncology,commercial,high-school,accepted,true,2024
+5407,YiYe-Wuhan,https://2024.igem.wiki/yiye-wuhan,asia,CHN,Oncology,commercial,high-school,accepted,true,2024
+5067,Zhejiang-United,https://2024.igem.wiki/zhejiang-united,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
+5319,ZJU-China,https://2024.igem.wiki/zju-china,asia,CHN,Fashion & Cosmetics,collegiate,undergrad,accepted,false,2024
+5377,ZJUT-China,https://2024.igem.wiki/zjut-china,asia,CHN,Biomanufacturing,collegiate,undergrad,accepted,true,2024
+5101,ZQT-Nanjing,https://2024.igem.wiki/zqt-nanjing,asia,CHN,Therapeutics,commercial,high-school,accepted,false,2024
