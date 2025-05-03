@@ -234,9 +234,9 @@ def process_record(record, api_key, num_qa_pairs):
 
 def main():
     """主函数"""
-    parser = argparse.ArgumentParser(description='简化版合成生物学QA生成器')
+    parser = argparse.ArgumentParser(description='合成生物学QA生成器')
     parser.add_argument('--input_file', help='输入JSON文件路径')
-    parser.add_argument('--output', default='output.json', help='输出JSON文件路径')
+    parser.add_argument('--output', default='./data/output.json', help='输出JSON文件路径')
     parser.add_argument('--api-key', help='API密钥')
     parser.add_argument('--qa-pairs', type=int, default=3, help='每条记录生成的问答对数量')
     parser.add_argument('--debug', action='store_true', help='启用调试模式')
