@@ -1,0 +1,386 @@
+[
+  {
+    "content": "When the OD600 reaches 0.5-0.7, add IPTG to the medium to a final concentration of 0.1-1 mM. Different IPTG concentrations and induction times can be set according to the experimental design. After induction, place the medium back into the shaking incubator at 37°C for continued cultivation. The induction time can be several hours or overnight (approximately 16-24 hours).",
+    "question": {
+      "stem": "In the FGF21 protein expression experiment, why is IPTG induction typically initiated when the OD600 reaches 0.5-0.7?",
+      "options": {
+        "A": "Because at this OD range, bacterial growth enters the stationary phase where protein synthesis is most active.",
+        "B": "Because this OD range represents the mid-log phase where bacterial metabolism is balanced for optimal recombinant protein expression.",
+        "C": "Because higher OD values would make the culture too dense for IPTG to diffuse evenly throughout the medium."
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Option B is correct as mid-log phase (OD600 0.5-0.7) provides optimal metabolic activity for protein expression. Option A is incorrect because stationary phase occurs at higher OD values where growth slows. Option C is partially true but not the primary reason - the main consideration is metabolic state rather than diffusion limitations."
+    },
+    "source": "AFMU-China - https://2024.igem.wiki/afmu-china"
+  },
+  {
+    "content": "Resuspend the collected bacterial pellet in lysis buffer on ice, with a ratio of bacteria to buffer of 1:5 (volume ratio). Use an ultrasonic homogenizer for cell disruption, set parameters to: power 400W, disrupt for 3 seconds, interval 6 seconds, total time 30 minutes. Keep the sample in an ice bath during the disruption process to prevent protein denaturation.",
+    "question": {
+      "stem": "What is the primary purpose of using intermittent ultrasonic disruption (3s on/6s off) with ice cooling during bacterial lysis for FGF21 extraction?",
+      "options": {
+        "A": "To allow time for heat dissipation and prevent protein denaturation while maintaining disruption efficiency.",
+        "B": "To conserve energy by reducing total ultrasonic operation time during the lysis process.",
+        "C": "To create pressure differentials that enhance membrane permeability without complete cell rupture."
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Option A is correct as intermittent sonication with cooling prevents local overheating that could denature FGF21. Option B is incorrect as energy conservation isn't the goal. Option C describes an unrelated phenomenon - the protocol aims for complete lysis, not partial permeabilization."
+    },
+    "source": "AFMU-China - https://2024.igem.wiki/afmu-china"
+  },
+  {
+    "content": "The insulin sensitivity was detected by the AKT (Ser473) phosphorylation, which was qualified using western blotting. Cells are washed with cold PBS and lysed with ice-cold RIPA lysis buffer. The volume of RIPA added is 1000 μL per 100 mg of tissue (approximately 200 μL for a 6-well plate). PMSF is added at a ratio of 1001:1 when used.",
+    "question": {
+      "stem": "Why is PMSF added to the RIPA lysis buffer during the insulin resistance experiment analyzing AKT phosphorylation?",
+      "options": {
+        "A": "PMSF stabilizes phosphorylated AKT by preventing dephosphorylation during cell lysis.",
+        "B": "PMSF acts as a protease inhibitor to prevent degradation of signaling proteins like AKT.",
+        "C": "PMSF enhances the solubility of membrane-bound receptors in the lysis buffer."
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Option B is correct as PMSF is a serine protease inhibitor that prevents protein degradation. Option A is incorrect because PMSF doesn't affect phosphorylation states. Option C is wrong as PMSF doesn't function as a solubilizing agent - its role is strictly protease inhibition."
+    },
+    "source": "AFMU-China - https://2024.igem.wiki/afmu-china"
+  },
+  {
+    "content": "P. destructans has a critical enzyme called Destructin-1, a serine protease that allows it to degrade collagen. This allows the fungus to create deeper infection sites on bats by destroying the skin's structural strength along with 5 other endopeptidases that break down other proteins. We aim to engineer E. coli that secrete a serine protease inhibitor(s) to prevent collagen degradation.",
+    "question": {
+      "stem": "The Alma iGEM team aims to combat White-Nose Syndrome by engineering E. coli to secrete serine protease inhibitors targeting Destructin-1. Which of the following best describes the synthetic biology approach used to achieve extracellular secretion of these inhibitors?",
+      "options": {
+        "A": "Using the type 1 secretion system with Hly-A signal peptide to direct inhibitors through HlyB/D-TolC channels, followed by TEV protease cleavage",
+        "B": "Employing the type 3 secretion system to directly inject inhibitors into fungal cells through needle-like structures",
+        "C": "Utilizing autotransporter proteins that self-cleave to release inhibitors into the environment"
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Option A is correct as the content explicitly describes using E. coli's type 1 secretion system with Hly-A signal peptide and subsequent TEV protease cleavage (Thomas et al. reference). Option B is incorrect as type 3 secretion is not mentioned. Option C is incorrect as autotransporters aren't referenced; the system uses dedicated secretion machinery."
+    },
+    "source": "Alma - https://2024.igem.wiki/alma"
+  },
+  {
+    "content": "The end goal is to have a bacteria spray that could be produced cheaply to be sprayed in critical bat habitats. This would allow the bacteria to thrive and actively combat the enzyme(s) produced by P. destructans. This would allow active bats to potentially carry the bacteria with them to other habitats that humans have not found or can access. In addition, live bacteria sprays will only be used if they are proven to be safe to release in the environment for remediation.",
+    "question": {
+      "stem": "What is the primary ecological consideration mentioned for deploying the engineered E. coli solution against White-Nose Syndrome?",
+      "options": {
+        "A": "The bacteria must be genetically modified to survive exclusively in laboratory conditions",
+        "B": "The spray formulation must be proven safe for environmental release before deployment",
+        "C": "The bacteria should be engineered to only target specific bat species"
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Option B is correct as the content explicitly states safety verification is required before environmental release. Option A contradicts the goal of environmental application. Option C is incorrect as the solution targets the fungus's enzymes, not bat species specificity."
+    },
+    "source": "Alma - https://2024.igem.wiki/alma"
+  },
+  {
+    "content": "Most current solutions are being tested for effectiveness; however, some data and progress toward a permanent solution have been recorded. An oral vaccine is one of two treatments that express an antigen that targets the fungus. Developed at McMaster University and Thompson Rivers University, the second treatment is a probiotic aimed at slowing the growth of the fungus on the bat's skin. Both treatments still need to be adjusted and there is not enough sufficient data to confirm their effectiveness.",
+    "question": {
+      "stem": "How does the Alma team's engineered E. coli approach differ fundamentally from existing experimental treatments for White-Nose Syndrome?",
+      "options": {
+        "A": "It focuses on inhibiting fungal proteases rather than stimulating bat immunity or competing with the fungus",
+        "B": "It uses viral vectors instead of bacterial systems for protein delivery",
+        "C": "It requires direct injection into bat tissues rather than oral or topical administration"
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Option A is correct as the team targets Destructin-1 protease, unlike vaccines (immune stimulation) or probiotics (microbial competition). Option B is incorrect as they use E. coli. Option C is wrong as they propose environmental spraying, not injections."
+    },
+    "source": "Alma - https://2024.igem.wiki/alma"
+  },
+  {
+    "content": "Our primary experiments focus on the engineering of a ROS-inducible catalase system designed to effectively neutralise reactive oxygen species within the coral microbiome and thereby protecting them from bleaching. This system is intended to be optimized for both control - selecting the best promoter that elicits the most effective response to ROS - and neutralization - identifying the most effective catalase for this application.",
+    "question": {
+      "stem": "What is the primary purpose of engineering a ROS-inducible catalase system in this study?",
+      "options": {
+        "A": "To enhance the growth rate of E. coli in high-oxygen environments.",
+        "B": "To protect coral microbiomes from bleaching by neutralizing reactive oxygen species.",
+        "C": "To develop a universal biosensor for detecting ROS in marine environments."
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Option B is correct because the experiment explicitly aims to neutralize reactive oxygen species (ROS) to protect coral microbiomes from bleaching. Option A is incorrect as the focus is on coral protection, not E. coli growth. Option C is incorrect because the goal is therapeutic (neutralizing ROS) rather than diagnostic (detecting ROS)."
+    },
+    "source": "ANU - https://2024.igem.wiki/anu"
+  },
+  {
+    "content": "For our promoter selection, we chose: OxyR/KatG: the native promoter for KatG in E. coli. OxyR/TrxCp: another E. coli promoter known for its ROS sensitivity. SoxR/SoxS: a superoxide E. coli promoter that may facilitate multi-ROS activity.",
+    "question": {
+      "stem": "Why were multiple promoters (OxyR/KatG, OxyR/TrxCp, SoxR/SoxS) selected for testing in this study?",
+      "options": {
+        "A": "To compare their efficiency in driving catalase expression under different ROS conditions.",
+        "B": "To determine which promoter can induce the highest fluorescence in E. coli.",
+        "C": "To identify the promoter with the strongest constitutive activity regardless of ROS levels."
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Option A is correct because the study aims to optimize the system by selecting the best promoter for ROS response. Option B is incorrect as fluorescence measurement is a secondary readout, not the primary goal. Option C is incorrect because the promoters are ROS-sensitive, not constitutive."
+    },
+    "source": "ANU - https://2024.igem.wiki/anu"
+  },
+  {
+    "content": "To validate our system, initial laboratory testing was conducted in E. coli, which provided a controlled environment to assess the effectiveness of these components before progressing to more complex systems in the coral microbiome.",
+    "question": {
+      "stem": "Why was E. coli chosen as the initial test organism for this coral microbiome-focused study?",
+      "options": {
+        "A": "E. coli naturally inhabits coral microbiomes and thus serves as a relevant model.",
+        "B": "E. coli provides a controlled and well-characterized system for initial component validation.",
+        "C": "E. coli has higher catalase activity than coral-associated bacteria, making it ideal for testing."
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Option B is correct because the text explicitly states E. coli was used for its controlled environment. Option A is incorrect as E. coli is not mentioned as a natural coral microbiome inhabitant. Option C is incorrect because the study compares catalase effectiveness, not assumes E. coli's superiority."
+    },
+    "source": "ANU - https://2024.igem.wiki/anu"
+  },
+  {
+    "content": "4.1.3 Add 150ul of Buffer P2 and softly invertate for eight times to mix well. (This step should be finished within 2 mins)\n4.1.4 Add 350ul of Buffer P5 and softly invertate for eight times, until the color of mixture is even.",
+    "question": {
+      "stem": "In the plasmid extraction protocol, why is it critical to complete the Buffer P2 addition and mixing step within 2 minutes?",
+      "options": {
+        "A": "To prevent premature degradation of the plasmid DNA by nucleases in the lysate.",
+        "B": "To avoid excessive denaturation of chromosomal DNA which would co-precipitate with plasmids.",
+        "C": "To maintain optimal pH for plasmid binding to the silica membrane in subsequent steps."
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Buffer P2 contains NaOH and SDS which lyse cells and denature DNA. Prolonged exposure (>2 min) would irreversibly denature chromosomal DNA (making it single-stranded) which could co-precipitate with plasmids. Option A is incorrect as nucleases would be inactivated by SDS. Option C is irrelevant as pH adjustment occurs with Buffer P5 addition."
+    },
+    "source": "BGI-MammothEdu-East - https://2024.igem.wiki/bgi-mammothedu-east"
+  },
+  {
+    "content": "7.1.3 Using the diluted culture, inoculate 20 mL of YPD medium to achieve an initial OD600 of 0.1. Incubate at 30°C in a shaker until the OD600 reaches 0.6 to 1 (growth rate approximately doubles every 1.5 hours).\n7.1.6 Resuspend the yeast pellet in 0.5 mL of Solution B to create competent cells.",
+    "question": {
+      "stem": "What is the primary purpose of harvesting yeast cells at OD600 0.6-1 for competent cell preparation?",
+      "options": {
+        "A": "To ensure cells are in stationary phase with thickened cell walls for efficient DNA uptake.",
+        "B": "To capture cells in mid-log phase when metabolic activity and membrane permeability are optimal.",
+        "C": "To synchronize cell cycle stages for higher transformation efficiency with linearized plasmids."
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Mid-log phase (OD600 0.6-1) ensures active metabolism and thinner cell walls, critical for chemical competence. Option A is incorrect as stationary phase cells have poor transformation efficiency. Option C describes electroporation requirements, not relevant here as the protocol uses chemical transformation."
+    },
+    "source": "BGI-MammothEdu-East - https://2024.igem.wiki/bgi-mammothedu-east"
+  },
+  {
+    "content": "8.1.4 After fermentation for 12 h, 5 ml dodecane (10%) overlay culture was added.\n8.1.7 Prepare a sample for GC-MS analysis by combining equal volumes (500 μL) of the dodecane extract and ethyl acetate.",
+    "question": {
+      "stem": "Why is dodecane added as an overlay in yeast fermentation for terpenoid production?",
+      "options": {
+        "A": "To extract hydrophobic products continuously while minimizing toxicity to yeast cells.",
+        "B": "To provide an additional carbon source for enhanced biomass production during stationary phase.",
+        "C": "To create anaerobic conditions required for terpenoid biosynthesis pathways."
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Dodecane forms a hydrophobic layer that extracts terpenoids (hydrophobic products), preventing feedback inhibition and toxicity. Option B is incorrect as dodecane isn't metabolized by yeast. Option C is invalid as terpenoid pathways don't require strict anaerobiosis."
+    },
+    "source": "BGI-MammothEdu-East - https://2024.igem.wiki/bgi-mammothedu-east"
+  },
+  {
+    "content": "ScanCer is an ATP-FRET probe for high-throughput screening of breast cancer medicines.",
+    "question": {
+      "stem": "The ATP-FRET probe ScanCer is designed for high-throughput screening of breast cancer medicines. Which of the following best explains the principle behind using FRET (Förster Resonance Energy Transfer) in this context?",
+      "options": {
+        "A": "FRET measures ATP levels directly by enzymatic conversion, providing a quantitative readout of cellular metabolism.",
+        "B": "FRET relies on energy transfer between two fluorophores when they are in close proximity, enabling detection of molecular interactions or conformational changes.",
+        "C": "FRET uses radioactive labeling of ATP to track its distribution in cancer cells, allowing for precise localization."
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Option B correctly describes FRET as a technique based on energy transfer between two fluorophores in close proximity, which is ideal for detecting molecular interactions or conformational changes. Option A is incorrect because FRET does not involve enzymatic conversion of ATP. Option C is incorrect because FRET does not use radioactive labeling; it is a fluorescence-based method. The correct answer aligns with the synthetic biology application of FRET for high-throughput screening."
+    },
+    "source": "BAID-China - https://2024.igem.wiki/baid-china"
+  },
+  {
+    "content": "Personalized medicine as a treatment method is increasingly adopted. There are many ways to treat breast cancer. Nowadays, advances in genomic sequencing, bioinformatics, and data analysis have made the use of personalized medicine increasingly popular.",
+    "question": {
+      "stem": "What is a major challenge in the adoption of personalized medicine for breast cancer treatment, as highlighted in the content?",
+      "options": {
+        "A": "The lack of advanced genomic sequencing technologies limits the identification of patient-specific mutations.",
+        "B": "The heterogeneity of tumors and dynamic evolution of resistance mechanisms complicate the identification of effective treatments.",
+        "C": "The high cost of chemotherapy and radiation therapy makes personalized medicine financially inaccessible."
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Option B correctly identifies tumor heterogeneity and dynamic evolution as major challenges, which are explicitly mentioned in the content. Option A is incorrect because the content states that advances in genomic sequencing are available. Option C is incorrect because the content does not mention cost as a primary challenge for personalized medicine, but rather focuses on biological complexities. The correct answer reflects the synthetic biology challenge of targeting diverse and evolving tumor profiles."
+    },
+    "source": "BAID-China - https://2024.igem.wiki/baid-china"
+  },
+  {
+    "content": "ScanCer is an ATP-FRET probe for high-throughput screening of breast cancer medicines. Here's how it works. With how it works in mind, we can now move on to the specifics of ScanCer.",
+    "question": {
+      "stem": "Why is high-throughput screening (HTS) particularly valuable in the context of breast cancer drug discovery, as suggested by the ScanCer project?",
+      "options": {
+        "A": "HTS allows for the rapid testing of thousands of compounds, enabling the identification of potential drugs that target diverse tumor profiles.",
+        "B": "HTS eliminates the need for genomic sequencing by directly measuring ATP levels in cancer cells.",
+        "C": "HTS focuses solely on chemotherapy agents, streamlining the traditional drug development pipeline."
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Option A correctly highlights the value of HTS in rapidly testing numerous compounds to address tumor heterogeneity, a key challenge mentioned in the content. Option B is incorrect because HTS does not replace genomic sequencing; it complements it. Option C is incorrect because HTS is not limited to chemotherapy agents but includes diverse drug candidates. The correct answer aligns with the synthetic biology goal of leveraging HTS for personalized medicine."
+    },
+    "source": "BAID-China - https://2024.igem.wiki/baid-china"
+  },
+  {
+    "content": "Using Agrobacterium-mediated transient transformation of tobacco leaves, we successfully validated that the TAL and C3H genes can enhance luminescence, while the promoters GRF3, GS1, and MDH1 can regulate the response to formaldehyde. Additionally, the constructed pGRF3-RtTAL and pGRF3-AtC3H modules also successfully responded to formaldehyde signals.",
+    "question": {
+      "stem": "In the context of synthetic biology, why did the researchers choose Agrobacterium-mediated transient transformation for validating the luminescence-enhancing genes and formaldehyde-responsive promoters in tobacco leaves?",
+      "options": {
+        "A": "Because Agrobacterium-mediated transformation is the only method capable of delivering large DNA constructs into plant cells.",
+        "B": "Because transient transformation allows rapid validation of gene function without the need for stable integration into the plant genome, saving time compared to generating stable transgenic lines.",
+        "C": "Because Agrobacterium naturally infects tobacco leaves more efficiently than other plant species, making it the preferred choice for this experiment."
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Option B is correct because transient transformation is indeed faster for functional validation, as it doesn't require stable integration (content shows results obtained within weeks). Option A is incorrect as other methods like biolistics can also deliver large DNA. Option C is incorrect because while Agrobacterium works well with tobacco, the choice wasn't based on species specificity but rather the need for rapid validation."
+    },
+    "source": "BGI-MammothEdu-South - https://2024.igem.wiki/bgi-mammothedu-south"
+  },
+  {
+    "content": "The results showed GFP fluorescence signals from the gene CDS-GFP fusion proteins in the epidermal cells of tobacco leaves, indicating the successful engineering of each pS1300-gene CDS-GFP construct. The experimental groups transiently expressing the 8 pS1300-gene CDS-GFP constructs exhibited higher brightness compared to the Control.",
+    "question": {
+      "stem": "What is the primary purpose of fusing the TAL and C3H genes with GFP in this synthetic biology study?",
+      "options": {
+        "A": "To use GFP fluorescence as a direct measure of luminescence intensity, since GFP emission spectra overlap with the luminescence signal.",
+        "B": "To visually confirm successful protein expression and subcellular localization of the fusion constructs in plant cells.",
+        "C": "To create a bifunctional reporter system where GFP serves both as a luminescence enhancer and a formaldehyde sensor."
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Option B is correct as GFP fusion primarily served as an expression reporter (content shows GFP signals confirmed construct success). Option A is incorrect because luminescence was measured separately via DSLR, not GFP fluorescence. Option C is incorrect as GFP wasn't part of the formaldehyde response system (separate GUS constructs were used for that)."
+    },
+    "source": "BGI-MammothEdu-South - https://2024.igem.wiki/bgi-mammothedu-south"
+  },
+  {
+    "content": "The p1300-GRF3-GUS group displayed the most pronounced differentiation, with the GRF3 promoter completely inhibiting the expression of the GUS gene in response to formaldehyde treatment. This outcome aligns with our concept of a formaldehyde-responsive bioluminescence monitor control element.",
+    "question": {
+      "stem": "Why was the GRF3 promoter selected over GS1 and MDH1 for creating the formaldehyde-responsive luminescence modules despite all three showing formaldehyde inhibition?",
+      "options": {
+        "A": "Because GRF3 showed complete inhibition of reporter gene expression under formaldehyde treatment, providing the most binary on/off response.",
+        "B": "Because GRF3 had the strongest basal expression level without formaldehyde, making the inhibition effect more visually apparent.",
+        "C": "Because GRF3 was the only promoter that could be successfully cloned and sequenced without mutations in all attempts."
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Option A is correct as content specifically notes GRF3's complete inhibition made it ideal for control elements. Option B is incorrect because basal expression levels weren't compared. Option C is incorrect because sequencing success was shown for all promoters (GS1 and MDH1 sequencing was also successful)."
+    },
+    "source": "BGI-MammothEdu-South - https://2024.igem.wiki/bgi-mammothedu-south"
+  },
+  {
+    "content": "PCR(Polymerase chain reaction)\nIntroduction\nThis step is to amplify the target gene from the purchased plasmid by PCR reaction.\nPCR enables the primers to bind specifically to the plasmid and amplify the genes of interest in several thermal cycles.\nProcedure\n1. Add 25μL 2×Phanta SE Buffer to each tube.\n2. Add 2μl of forward primer and reverse primer to each tube.\n3. Add 1μL of template DNA to each tube.\n4. Add ddH2O 19μL to each tube.\n5. Finally, add 1μL of Phanta SE Super-Fidelity DNA Polymerase to each tube.\n6. Put the tubes into the PCR Amplifier for PCR.",
+    "question": {
+      "stem": "In the PCR protocol described, why is Phanta SE Super-Fidelity DNA Polymerase specifically chosen for amplifying the target gene?",
+      "options": {
+        "A": "It provides higher amplification efficiency than Taq polymerase, enabling faster PCR cycles.",
+        "B": "It offers superior fidelity for accurate amplification of the target sequence with minimal errors.",
+        "C": "It allows for room temperature setup of PCR reactions without requiring ice."
+      }
+    },
+    "answer": {
+      "correct_option": "B",
+      "explanation": "Option B is correct because Phanta SE Super-Fidelity DNA Polymerase is known for its high-fidelity properties, crucial for accurate gene amplification. Option A is incorrect as speed isn't mentioned as a priority in the protocol. Option C is incorrect as the protocol clearly requires thermal cycling and doesn't mention room temperature operation."
+    },
+    "source": "BNUZH-China - https://2024.igem.wiki/bnuzh-china"
+  },
+  {
+    "content": "4.2 Extracellular Electron Transport\n4.2.1 Microbial Fuel Cell (MFC) configuration\nWe used MFC to exam the bioelectricity output of corresponding strains to further investigate whether e-pili can help the bioelectricity output of P. aeruginosa and the contribution of pilA on EET.\nTwo 200 ml Perspex chambers were separated by a 5×5-cm2 cross-sectional area CMI-7000 cation exchange membrane. The electrode was made of polished graphite (5×8 cm^2, 4 mm thickness) unless stated otherwise.",
+    "question": {
+      "stem": "What is the primary purpose of using a cation exchange membrane in the microbial fuel cell (MFC) configuration described?",
+      "options": {
+        "A": "To physically separate the anode and cathode chambers while allowing proton transfer.",
+        "B": "To selectively filter out larger bacterial cells from reaching the cathode.",
+        "C": "To provide structural support for the graphite electrodes in the MFC."
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Option A is correct as cation exchange membranes in MFCs primarily allow proton transfer between chambers while maintaining separation. Option B is incorrect as bacterial filtration isn't mentioned in the protocol. Option C is incorrect as structural support isn't the membrane's primary function."
+    },
+    "source": "BNUZH-China - https://2024.igem.wiki/bnuzh-china"
+  },
+  {
+    "content": "4.3 Carbon Dioxide Fixation Module\n4.3.1 Cellulose expression verification\nCongo red staining on plates for detecting cellulose production\nFrom the plasmid-containing and plasmid-free strains, 2 μL of each was diluted into 100 μL of LB and spread on LB plates containing 0.004% Congo red to determine whether cellulose was produced in the E. coli strains. The plates were incubated at 37°C for 24 hours. Red colonies indicated the binding of Congo red to cellulose.",
+    "question": {
+      "stem": "Why is Congo red staining used to verify cellulose production in the engineered E. coli strains?",
+      "options": {
+        "A": "Congo red specifically binds to cellulose fibers, producing a visible color change that indicates production.",
+        "B": "Congo red inhibits non-cellulose producing bacteria, allowing only engineered strains to grow.",
+        "C": "Congo red acts as a nutrient source that only cellulose-producing bacteria can utilize."
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Option A is correct as Congo red is a well-known cellulose-binding dye that produces visible color changes. Option B is incorrect as the protocol doesn't mention growth inhibition. Option C is incorrect as Congo red isn't described as a nutrient source in the protocol."
+    },
+    "source": "BNUZH-China - https://2024.igem.wiki/bnuzh-china"
+  },
+  {
+    "content": "To generate competent E. coli DH5α cells, enabling them to uptake genetic material through chemical methods (heat shock method). The protocol involves preparing an overnight culture, measuring OD600, incubating until OD600=0.5-0.7, and treating with cold CaCl2 to make cells competent for transformation.",
+    "question": {
+      "stem": "In the protocol for preparing chemically competent E. coli DH5α cells, why is it critical to incubate the culture until reaching OD600=0.5-0.7 before proceeding with CaCl2 treatment?",
+      "options": {
+        "A": "This OD range ensures maximum plasmid uptake efficiency as cells are in early exponential phase with optimal membrane permeability.",
+        "B": "Cells at this OD range have the highest metabolic activity, which is necessary for subsequent heat shock transformation.",
+        "C": "This optical density indicates cells are in late stationary phase where they naturally develop competence for DNA uptake."
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Option A is correct as mid-log phase (OD600=0.5-0.7) provides optimal membrane permeability for chemical competence. Option B is incorrect because metabolic activity isn't the primary factor for chemical competence. Option C is wrong as stationary phase cells don't naturally develop competence in E. coli DH5α - competence is chemically induced."
+    },
+    "source": "Bolivia - https://2024.igem.wiki/bolivia"
+  },
+  {
+    "content": "The transformation protocol involves heat shock at 42°C for 90 seconds after incubating DNA with competent cells on ice, followed by immediate cooling and recovery in LB broth before plating on antibiotic-containing agar.",
+    "question": {
+      "stem": "What is the primary purpose of the 42°C heat shock step in bacterial transformation, and why is immediate cooling crucial?",
+      "options": {
+        "A": "Heat shock creates temporary pores in bacterial membranes for DNA entry, while rapid cooling prevents DNA degradation by nucleases.",
+        "B": "The temperature shift induces plasmid replication, and cooling stabilizes the replication machinery.",
+        "C": "Heat shock denatures chromosomal DNA to prevent competition with plasmid DNA for cellular resources during transformation."
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Option A correctly describes the heat shock's role in membrane permeabilization and the need to prevent DNA degradation. Option B is incorrect as plasmid replication occurs later during recovery. Option C is wrong because chromosomal DNA denaturation isn't part of standard transformation protocols."
+    },
+    "source": "Bolivia - https://2024.igem.wiki/bolivia"
+  },
+  {
+    "content": "The mercury biosensor validation requires strict safety protocols including fume hood use, PPE, spill neutralization with sodium thiosulfate, and emergency procedures for skin contact or inhalation exposure.",
+    "question": {
+      "stem": "Why is sodium thiosulfate specifically recommended for neutralizing mercury compound spills in the biosensor validation protocol?",
+      "options": {
+        "A": "It converts toxic mercury ions into less soluble mercury sulfide, reducing volatility and bioavailability.",
+        "B": "It provides a visual color change to indicate complete mercury neutralization.",
+        "C": "It enzymatically degrades mercury compounds into non-toxic elemental mercury that can be easily collected."
+      }
+    },
+    "answer": {
+      "correct_option": "A",
+      "explanation": "Option A is correct as sodium thiosulfate reacts with mercury to form insoluble HgS. Option B is incorrect because color change isn't mentioned in the protocol. Option C is wrong as the reaction is chemical, not enzymatic, and doesn't produce elemental mercury."
+    },
+    "source": "Bolivia - https://2024.igem.wiki/bolivia"
+  }
+]
