@@ -13,8 +13,6 @@ import path_config
 
 from utils.singleton import S_Config
 
-# os.environ["OPENAI_API_KEY"] = "sk-de73abf927ca4e1d9b7d310be834f3ec"
-
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
