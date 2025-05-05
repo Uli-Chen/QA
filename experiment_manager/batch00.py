@@ -230,7 +230,7 @@ def batch_run(batch_folder):
 
             ###
             new_config['entry'] = 'QAbyLLM.py'
-            new_config['QAbyLLM']['apiKey'] = 'sk-de73abf927ca4e1d9b7d310be834f3ec'
+            new_config['QAbyLLM']['apiKey'] = '<your-api>'
             ###
             new_config['QAbyLLM']['prompt'] = prompt
             ###
